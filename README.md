@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Danila. I'm 21 and now live in Ivanovo, Russia. Actually I am backend developer, but sometimes can make something on client side.
+My name is Danila. I'm 22 and now live in Ivanovo, Russia. Actually I am backend developer, but sometimes can make something on client side.
 
 I mostly use private gitlabs (work one and [my own instance](https://git.wbydc.io)), so only very small public projects are stored here.
 
